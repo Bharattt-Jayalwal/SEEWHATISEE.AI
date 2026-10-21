@@ -1,0 +1,8 @@
+# Add a server-side OpenAI API key to enable real frame analysis.
+# When unset, the app stays in clearly labeled demo mode and does not upload frames.
+OPENAI_API_KEY=
+OPENAI_MODEL=gpt-4.1-mini
+
+# Optional product contact shown in the footer.
+NEXT_PUBLIC_CONTACT_EMAIL=
+
